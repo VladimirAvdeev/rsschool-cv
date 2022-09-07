@@ -27,7 +27,7 @@ I am 29 years old. I have been knowing that I want work in IT since I was kid. T
 ---
 ### Code example:
 
-Random Kata from Codewars:
+Duplicate Encoder Kata from Codewars: *The goal of this exercise is to convert a string to a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string.*
 ```
 function duplicateEncode(word){
     word = word.toLowerCase();
